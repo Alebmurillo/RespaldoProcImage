@@ -1,0 +1,35 @@
+#ifndef INCLUDES_H
+#define INCLUDES_H
+/*Foreign includes*/
+#include "opencv2/core/core.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/highgui/highgui.hpp"
+#include <QTimer>
+#include <exception>
+#include "opencv/highgui.h"
+#include "opencv/cv.h"
+#include "qcustomplot.h"
+#include <QMainWindow>
+#include <iostream>
+#include <QMainWindow>
+#include <QGraphicsView>
+#include <QGraphicsScene>
+#include <QGraphicsItem>
+#include <QFileDialog>
+#include <QDebug>
+#include <QDesktopWidget>
+#include <QMessageBox>
+#include <string>
+#include<vector>
+#include <stdio.h>
+#include <stdlib.h>
+#include "opencv2/gpu/gpu.hpp"
+#include "opencv2/opencv.hpp"
+#include <iostream>
+#include <sys/timeb.h>
+#include <fstream>
+//#include <dirent.h>
+#include <assert.h>
+/*#include <cuda.h>
+#include <cuda_runtime_api.h>*/
+#endif
